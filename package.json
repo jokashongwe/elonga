@@ -32,13 +32,16 @@
     "@tiptap/react": "^2.0.3",
     "@tiptap/starter-kit": "^2.0.3",
     "apexcharts": "^3.40.0",
+    "appwrite": "^13.0.2",
     "dayjs": "^1.11.7",
     "embla-carousel-react": "7.1.0",
+    "i18next": "^23.11.2",
     "mantine-datatable": "^2.5.0",
     "react": "^18.2.0",
     "react-apexcharts": "^1.4.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
+    "react-i18next": "^14.1.0",
     "react-router-dom": "^6.10.0"
   },
   "devDependencies": {

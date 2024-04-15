@@ -76,7 +76,7 @@ const HowItWorksPage = (): JSX.Element => {
                             <iframe
                                 width="600"
                                 height="400"
-                                src="https://www.youtube.com/embed/ut8___4PI2A"
+                                src="https://www.youtube.com/embed/QM3WSc3kY8M?si=uWvibbNKzMNSAOlF"
                                 title="Baby Shark Dance + More Songs | Compilation for Kids | Pinkfong Baby Shark"
                                 frameBorder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

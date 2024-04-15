@@ -2,7 +2,7 @@
   "links": [
     {
       "link": "/about",
-      "label": "Home"
+      "label": "Accueil"
     },
     {
       "link": "/learn",
@@ -10,7 +10,7 @@
     },
     {
       "link": "/pricing",
-      "label": "Pricing"
+      "label": "Prix"
     }
   ]
 }
